@@ -1,0 +1,19 @@
+{
+  "name": "chartist-plugin-months-axis",
+  "version": "0.0.1",
+  "main": [
+    "./dist/chartist-plugin-months-axis.min.js"
+  ],
+  "dependencies": {
+    "chartist": "~0.9.0"
+  },
+  "ignore": [
+    ".*",
+    "Gruntfile.js",
+    "package.json",
+    "node_modules",
+    "src",
+    "test",
+    "tasks"
+  ]
+}
