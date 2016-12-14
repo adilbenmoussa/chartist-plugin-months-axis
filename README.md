@@ -52,3 +52,8 @@ var chart = new Chartist.Line('.ct-chart', {
   }
 });
 ```
+
+### Example
+
+<p data-height="265" data-theme-id="0" data-slug-hash="qqJgPB" data-default-tab="js,result" data-user="benmoussa" data-embed-version="2" data-pen-title="Chartist plugin months axis moment example" class="codepen">See the Pen <a href="http://codepen.io/benmoussa/pen/qqJgPB/">Chartist plugin months axis moment example</a> by Adil Ben Moussa (<a href="http://codepen.io/benmoussa">@benmoussa</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
